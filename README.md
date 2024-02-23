@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PolarbearinBox
+- 👋 Hi, I’m Zicheng Liang
 - 👀 I’m interested in everything!
 - 🌱 I’m currently a first year computer science student @ Trinity College Dublin.
 - 💻 My skillsets now include Java, ARM assembly language, and a little R.
