@@ -6,7 +6,7 @@ I am a **Computer Science** student at Trinity College Dublin.
 ##### 💡 Projects
 - Currently working on [*GitLet*](https://github.com/ZichengLiang/CS61B_sp21/tree/main/proj2), a CLI application which mimics *Git*'s basic behaviours.
   - This is from UC Berkeley's *CS61B: Data Structures and Algorithms*. I audited the course over the summer, more [projects and lab works](https://github.com/ZichengLiang/CS61B_sp21) are presented here.
-- Game developing with Rust. [Flappy Dragon](https://github.com/ZichengLiang/flappy_dragon) is my first minimum viable product. (Credits to [Herbert Wolverson's](https://github.com/thebracket) wonderful book and library.
+- Game developing with Rust. [Flappy Dragon](https://github.com/ZichengLiang/flappy_dragon) is my first minimum viable product. (Credits to [Herbert Wolverson's](https://github.com/thebracket) wonderful book and library)
 - [Flight Data Visualisation](https://github.com/ZichengLiang/CSU10013_Flight_Data_Visualisation). This is a school project in which I worked as a backend developer and the team leader.
 - Training myself for programming competitions. 
 
