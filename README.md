@@ -9,22 +9,6 @@ I am a **Computer Science** student at Trinity College Dublin.
 - Game developing with Rust. [Flappy Dragon](https://github.com/ZichengLiang/flappy_dragon) is my first minimum viable product. (Credits to [Herbert Wolverson's](https://github.com/thebracket) wonderful book and library)
 - [Flight Data Visualisation](https://github.com/ZichengLiang/CSU10013_Flight_Data_Visualisation). This is a school project in which I worked as a backend developer and the team leader.
 - Training myself for programming competitions. 
-
-----
-
-#### 💻 Stack
-- Java
-- C
-- Rust (Still learning)
-
-----
-
-#### 🌱 Personal Interests
-- Taking care of my cats!
-- History, especially cold war and global history. (Used to be a history student at East China Normal University)
-- Language learning, I am learning Italian now.
-
-
 ----
 
 #### 📧 Contacts
