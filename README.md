@@ -4,11 +4,12 @@ I am a **Computer Science** student at Trinity College Dublin.
 ----
 
 ##### 💡 Projects
-- Currently working on [*GitLet*](https://github.com/ZichengLiang/CS61B_sp21/tree/main/proj2), a CLI application which mimics *Git*'s basic behaviours.
-  - This is from UC Berkeley's *CS61B: Data Structures and Algorithms*. I audited the course over the summer, more [projects and lab works](https://github.com/ZichengLiang/CS61B_sp21) are presented here.
-- Game developing with Rust. [Flappy Dragon](https://github.com/ZichengLiang/flappy_dragon) is my first minimum viable product. (Credits to [Herbert Wolverson's](https://github.com/thebracket) wonderful book and library)
-- [Flight Data Visualisation](https://github.com/ZichengLiang/CSU10013_Flight_Data_Visualisation). This is a school project in which I worked as a backend developer and the team leader.
-- Training myself for programming competitions. 
+- [BeatBot](https://github.com/ZichengLiang/BeatBot_Deployment)  
+   - Agentic music generation web app built with React, Flask, and LangGraph.  
+   - Features AI-driven multi-step agent orchestration with natural melody and interactive music editor.  
+   - Deployed with Docker, Railway (backend), and Vercel (frontend).
+   - Live demo: [beat-bot-deployment.vercel.app](https://beat-bot-deployment.vercel.app/)  
+   - Developed in a 12-week agile team project under IBM mentorship for university Software Engineering coursework.
 ----
 
 #### 📧 Contacts
