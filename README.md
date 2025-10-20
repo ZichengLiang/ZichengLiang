@@ -1,5 +1,7 @@
 #### Hi! I'm Zicheng Liang.
-I am a **Computer Science** student at Trinity College Dublin. 
+I am a 3rd year **Computer Science** student at Trinity College Dublin. 
+
+Currently, I am interested in graph dynamics, please contact me if you are interested in this topic too :D
 
 ----
 
