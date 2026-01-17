@@ -6,7 +6,7 @@ Currently, I am getting started in model compression and complexity science, fee
 ----
 
 ##### 💡 Projects
-- [Wick](https://github.com/ZichengLiang/wick) (Ongoing) : Exploring model compression through Rust
+- Wick (Ongoing) : Exploring model compression through Rust
    - Linear quantization (INT8 symmetric & asymmetric), safetensor format model loading, and NRMSE loss metrics.
    - More algorithms coming soon.
 - [BeatBot](https://github.com/ZichengLiang/BeatBot_Deployment)  
